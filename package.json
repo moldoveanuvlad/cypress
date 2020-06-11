@@ -1,0 +1,15 @@
+{
+  "name": "streamhub-cypress",
+  "version": "1.0.0",
+  "description": "e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  }
+}
